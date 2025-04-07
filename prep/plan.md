@@ -1,7 +1,7 @@
 # Plan
 
-## Tool: 
-## Product: 
+## Tool: Godot
+## Product:Make a fighting game similar to super smash bros or 
 
 ---
 
