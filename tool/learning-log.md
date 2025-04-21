@@ -37,4 +37,6 @@
 * But for the floor to start to move on their own you would have to add an animation node
 
 ### 3/24
-* The knock back for the characters in my game will be crucial to its gameplay, luckily Godot has a way to detect whenever an object can collide with another of the objects in your code by adding a node called PhysicsBody2D and KinematicCollision which checks for the movement given by PhysicsBody2D. You can add this node to the character tab that you had previous created and add in your own 
+* The knock back for the characters in my game will be crucial to its gameplay, luckily Godot has a way to detect whenever an object can collide with another of the objects in your code by adding a node called PhysicsBody2D and KinematicCollision which checks for the movement given by PhysicsBody2D. You can add this node to the character tab that you had previous created and add in your own
+### 4/7/25
+* The physics node would help the collison of my game helping with the strenght an attack could have on a player 
